@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Music</string>
+    <string-array name="templates">
+        <item>You and I</item>
+        <item>Stitches</item>
+        <item>Perfect</item>
+        <item>Style</item>
+        <item>Thunder</item>
+        <item>Love Yourself</item>
+    </string-array>
+    <string-array name="descp">
+        <item>One Direction</item>
+        <item>Shawn Mendes</item>
+        <item>Ed Sheeran</item>
+        <item>Taylor Swift</item>
+        <item>Imagine Dragons</item>
+        <item>Justin Beiber</item>
+    </string-array>
+
+</resources>
